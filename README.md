@@ -32,7 +32,7 @@ I’m moving from simply analyzing datasets to building the robust pipelines tha
 ---
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [Anne Porcia Affi-Asamani]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anne-porcia-a-006639179/)) 
+* **LinkedIn:** https://www.linkedin.com/in/anne-porcia-a-006639179/
 * **Email:** annporcia@hotmail.com (mailto:annporcia@hotmail.com)
 * **Tableau Public**: https://public.tableau.com/app/profile/anne.porcia.affi.asamani/vizzes
 
