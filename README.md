@@ -7,7 +7,6 @@ I’m moving from simply analyzing datasets to building the robust pipelines tha
 - 🔭 **Current Focus:** Migrating manual analysis workflows into automated, scalable data models.
 - ⚙️ **The Transition:** Deepening my expertise in **SQL modeling**, **dbt**, and **Data Warehouse architecture**.
 - 🌱 **Learning:** Data orchestration (Airflow), CI/CD for data, and Python for data engineering.
-- 💬 **Ask me about:** Data storytelling, SQL optimization, and why clean documentation is a love language.
 
 ---
 
